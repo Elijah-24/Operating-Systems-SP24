@@ -1,0 +1,15 @@
+Process 0 terminates at t = 310ms.
+It performed 0 physical read(s), 0 logical read(s), and 1 physical write(s).
+
+Process states:
+--------------
+  0  TERMINATED
+  1  RUNNING
+
+Process 1 terminates at t = 350ms.
+It performed 0 physical read(s), 0 logical read(s), and 1 physical write(s).
+
+Process states:
+--------------
+  1  TERMINATED
+

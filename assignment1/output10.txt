@@ -1,0 +1,7 @@
+Process 0 terminates at t = 1280.2ms.
+It performed 1 physical read(s), 0 logical read(s), and 1 physical write(s).
+
+Process states:
+--------------
+  0  TERMINATED
+
